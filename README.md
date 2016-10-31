@@ -1,2 +1,3 @@
 # fizzBuzz
-Scala
+play scalac fizzBuzz.scala | scala fizzBuzz
+
